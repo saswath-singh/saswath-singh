@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Saswath Singh</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif">
+<img align="right" alt="Coding" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saswath1403&label=Profile%20views&color=0e75b6&style=flat" alt="saswath1403" /> </p>
 
