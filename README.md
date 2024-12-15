@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/saswath singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saswath singh" height="30" width="40" /></a>
 <a href="https://x.com/saswath_singh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saswath_singh" height="30" width="40" /></a>
-</p>
 <a href="https://instagram.com/saswath_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saswath_singh" height="30" width="40" /></a>
 </p>
 
